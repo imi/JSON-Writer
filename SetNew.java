@@ -1,6 +1,5 @@
 package JsonWriter;
 
-
 public class SetNew {
 	Object key, value;
 	boolean value_is_json = false;
