@@ -1,4 +1,4 @@
-<h1 style="text-align: center";">JSON Object Writer</h1>
+<h1 style="text-align: center";">JSON Writer</h1>
 <p style="text-align: center; font-size: 20px"> A very basic and a simple JSON writer in Java </p>
 
 ### Usage
